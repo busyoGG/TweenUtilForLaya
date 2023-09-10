@@ -47,4 +47,4 @@ to和from方法表示两个不同的缓动类型，to为从当前状态到目标
 
 特别注意，本项目目前不支持缓动对象池，因为有可能会出现引用bug，因此需要缓动对象池的话请自行实现。
 
-详细说明见 [Js/Ts缓动系统](https://busyogg.github.io/2023/08/24/Js-Ts%E7%BC%93%E5%8A%A8%E7%B3%BB%E7%BB%9F/)
+详细说明见 [Js/Ts缓动系统](https://busyo.buzz/article/Laya/%E5%B7%A5%E5%85%B7/Js-Ts%E7%BC%93%E5%8A%A8%E7%B3%BB%E7%BB%9F/)
